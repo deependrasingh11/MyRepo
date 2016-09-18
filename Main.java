@@ -7,7 +7,8 @@ class Main
 		
    System.out.println("git");
 
-System.out.println("write a massage frome remote repository ");
+   System.out.println("write a massage frome remote repository ");
+   System.out.println("write a massage frome eclipse  ");
 
 	}
 }
