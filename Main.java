@@ -7,6 +7,7 @@ class Main
 		
    System.out.println("git");
 
+System.out.println("write a massage frome remote repository ");
 
 	}
 }
